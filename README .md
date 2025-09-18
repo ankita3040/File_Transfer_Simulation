@@ -70,8 +70,8 @@ Instead of standard C library functions, the project makes use of **Windows syst
 ---
 
 ## Authors
-- **Piyush Khairnar** — [Marvellous Infosystems](http://www.marvellousinfosystems.com)  
-- **Your Name** — [@YourGitHub](https://github.com/your-profile)  
+
+- **Ankita Patil** 
 
 ---
 
